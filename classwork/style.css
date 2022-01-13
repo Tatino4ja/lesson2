@@ -1,0 +1,35 @@
+body{
+    background: black;
+}
+.block{
+    padding: 200px 600px;
+
+}
+
+.pole{
+    width: 150px;
+    height: 35px;
+    color: #fd6e1d;
+    background: black;
+    box-sizing: border-box;
+    border: 5px solid #fd6e1d;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 5px;
+}
+
+#blue{
+    border: 5px solid #2cf2e5;
+    color: #2cf2e5;
+}
+
+#pinc {
+    border: 5px solid #f2519e;
+    color: #f2519e;
+}
+
+#red {
+    border: 5px solid #f43d3d;
+    color: #f43d3d;
+}
