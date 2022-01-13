@@ -1,0 +1,45 @@
+.vsi{
+    margin-right: 15px;
+    margin-left: 30px;
+}
+.lesson{
+    height: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background: #882726;
+}
+p{
+    margin: 0;
+}
+.text_one{
+    color: #f7ebd5;
+    padding: 6px 550px;
+}
+.grey{
+    height: 100px;
+    background: #bfbfbf;
+}
+.text_two{
+    padding: 30px;
+}
+.blue{
+    height: 120px;
+    background: #6394eb;
+}
+.text_three{
+    padding: 50px 0;
+}
+.green{
+    margin-left: 30px;
+    background: #6bb967;
+    height: 150px;
+    width: 150px;
+}
+
+.purple{
+    height: 150px;
+    width: 150px;
+    margin-left: 30px;
+    background: #8785aa;
+    border-radius: 20px;
+}
