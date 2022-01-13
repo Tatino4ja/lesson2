@@ -1,0 +1,38 @@
+body{
+    background: #e3e3e3;
+}
+.a{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    width: 150px;
+    height: 150px;
+    background: #fda901;
+
+}
+p{
+    padding-top: 66px;
+    padding-left: 70px;
+}
+
+#A{
+    box-shadow: #464646 20px 20px 0px 0px;
+}
+#B{
+    box-shadow: #464646 20px 20px 10px 0px;
+}
+#C{
+    box-shadow: #464646 20px 20px 10px 8px;
+}
+#D{
+    box-shadow: #9d9d9d 20px 20px 10px 8px;
+}
+#E{
+    box-shadow: #464646 20px 20px 10px 0px;
+    border-radius: 5px;
+}
+#F{
+    box-shadow: #9d9d9d 20px 20px 10px 0px;
+    border-radius: 5px;
+
+}
