@@ -1,0 +1,17 @@
+.grey{
+    width: 600px;
+    height: 300px;
+    background: grey;
+    margin-top: 200px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    box-shadow: #d3b690 -20px -40px 30px 10px;
+}
+p{
+
+    margin-left: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 20px;
+    border-left: 3px solid red;
+}
